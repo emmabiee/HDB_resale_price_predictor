@@ -6,7 +6,7 @@ import streamlit as st
 
 st.set_page_config(page_title="HDB Resale Price Calculator", page_icon="🏠")
 
-MODEL_URL = "https://github.com/emmabiee/HDB_resale_price_predictor/releases/download/v1.0/final_resale_price_model_7f.joblib"
+MODEL_URL = "https://github.com/emmabiee/HDB_resale_price_predictor/releases/download/v1.1/final_resale_price_model_7f.joblib"
 MODEL_PATH = "final_resale_price_model_7f.joblib"
 
 
